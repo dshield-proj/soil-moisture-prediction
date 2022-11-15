@@ -14,3 +14,7 @@ Use the prediction code to predict for the required date. Note that for validati
 
 ## 5. Post process the predicted CSV file
 Finally post-process the global predicted CSV file to include the estimated bias for selected Ground Points.
+
+## Questions?
+Contact: Archana Kannan
+Email: kannana@usc.edu
